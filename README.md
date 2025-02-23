@@ -12,6 +12,7 @@ Supports Scalability – Well-engineered software can handle increasing users an
 Enhances Collaboration – Teams can work together effectively using standardized development practices.
 
 2.Identify and describe at least three key milestones in the evolution of software engineering.
+
 1968 – NATO Conference on Software Engineering
 Introduced the term “software engineering” to address the software crisis caused by poor development practices.
 1970 – Introduction of the Waterfall Model
@@ -47,6 +48,7 @@ Quality Assurance (QA) Engineer – Ensures software functionality, reliability,
 Project Manager – Oversees planning, resource allocation, and ensures timely project completion.
 
 6.Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 Integrated Development Environments (IDEs):
 Provide tools for coding, debugging, and testing in one platform.
 Examples: Visual Studio, PyCharm, IntelliJ IDEA.
@@ -62,6 +64,7 @@ Security Risks → Implement secure coding standards and conduct security audits
 Communication Gaps → Use collaboration tools like Slack and Jira.
 
 8.Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
 Unit Testing – Tests individual components (e.g., functions, classes).
 Integration Testing – Ensures different modules work together.
 System Testing – Tests the complete system for compliance with requirements.
@@ -80,6 +83,7 @@ Reduces bias and ambiguity in AI responses.
 Example of Prompt Refinement
 
 2.Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 Vague Prompt:
 "Tell me about data science."
 
